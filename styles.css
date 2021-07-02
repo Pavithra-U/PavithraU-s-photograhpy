@@ -1,0 +1,16 @@
+.h3 {
+    text-decoration-style: wavy;
+    background-color: antiquewhite;
+      
+  
+}
+
+.img {
+	  display: flex;
+	  justify-content: center;
+	}
+   
+.body 
+{
+background: linear-gradient(90deg, rgba(0,0,105,1) 0%, rgba(0,0,121,1) 8%, rgba(3,3,128,1) 13%, rgba(3,3,129,1) 15%, rgba(0,0,139,1) 23%, rgba(48,0,123,1) 38%, rgba(96,0,106,1) 51%, rgba(163,0,83,1) 72%, rgba(209,0,68,1) 90%, rgba(255,0,52,1) 100%);
+}
